@@ -1,0 +1,12 @@
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.Concretes.deps.json
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.Concretes.dll
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.Concretes.pdb
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.sourcelink.json
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.dll
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\refint\ApiCRUD.Concretes.dll
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.pdb
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ref\ApiCRUD.Concretes.dll

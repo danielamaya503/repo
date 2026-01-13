@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiCRUD.Interfaces\ApiCRUD.Interfaces.csproj" />
+    <ProjectReference Include="..\ApiCRUD.ModelsDTO\ApiCRUD.ModelsDTO.csproj" />
+    <ProjectReference Include="..\ApiCRUD.Models\ApiCRUD.Models.csproj" />
+  </ItemGroup>
+
+</Project>

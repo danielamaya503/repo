@@ -1,0 +1,14 @@
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\bin\Debug\net10.0\ApiCRUD.Models.deps.json
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\bin\Debug\net10.0\ApiCRUD.Models.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\bin\Debug\net10.0\ApiCRUD.Models.dll
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\bin\Debug\net10.0\ApiCRUD.Models.pdb
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\obj\Debug\net10.0\ApiCRUD.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\obj\Debug\net10.0\ApiCRUD.Models.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\obj\Debug\net10.0\ApiCRUD.Models.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\obj\Debug\net10.0\ApiCRUD.Models.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\obj\Debug\net10.0\ApiCRUD.Models.sourcelink.json
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\obj\Debug\net10.0\ApiCRUD.Models.dll
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\obj\Debug\net10.0\refint\ApiCRUD.Models.dll
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\obj\Debug\net10.0\ApiCRUD.Models.pdb
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\obj\Debug\net10.0\ApiCRUD.Models.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Models\obj\Debug\net10.0\ref\ApiCRUD.Models.dll

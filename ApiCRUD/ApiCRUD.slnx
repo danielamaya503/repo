@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../ApiCRUD.Concretes/ApiCRUD.Concretes.csproj" />
+  <Project Path="../ApiCRUD.Interfaces/ApiCRUD.Interfaces.csproj" />
+  <Project Path="../ApiCRUD.Models/ApiCRUD.Models.csproj" />
+  <Project Path="../ApiCRUD.ModelsDTO/ApiCRUD.ModelsDTO.csproj" />
+  <Project Path="ApiCRUD.csproj" />
+</Solution>
