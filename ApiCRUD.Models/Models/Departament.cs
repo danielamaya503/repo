@@ -6,11 +6,11 @@ namespace ApiCRUD.Models.Models
 {
     public class Departament
     {
-        public int Id { get; set; }
-        public string? Nombre { get; set; }
+        public int idDepartamento { get; set; }
+        public string Nombre { get; set; } = string.Empty;
+        public string descripcion { get; set; } = string.Empty;
 
-        public string descripcion { get; set; }
-
-        public Usuarios? usuario { get; set; }
+        // Navegación al lado "muchos" (un Departament tiene muchos Usuarios)
+        public virtual ICollection<Usuarios> usuarios { get; set; } = new List<Usuarios>();
     }
 }

@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using ApiCRUD.Datos;
+using ApiCRUD.Concretes.Datos;
+using ApiCRUD.Concretes.Servicios;
+using ApiCRUD.Interfaces.Servicios;
 
 //usar proyecto de ApiCRUD.Models que es biblioteca de clases
 
@@ -50,8 +52,8 @@ builder.Services.AddCors();
 
 //--------------------INYECCIONES DE DEPENDENCIAS PERSONALIZADAS AQUI--------------------//
 
-
-
+builder.Services.AddScoped<IUsuarios, UsuariosServicio>();
+//builder.Services.AddScoped<IDepartamentos, DepartamentosServicio>();
 
 
 var app = builder.Build();

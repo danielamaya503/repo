@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCRUD.ModelsDTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29433a6a6dff7e43dc52f900a29816ca0017aaa9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fb7bc447ae1674e22aaa33b21a12704bf7cd7a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCRUD.ModelsDTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCRUD.ModelsDTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

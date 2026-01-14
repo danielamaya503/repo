@@ -1,11 +1,15 @@
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\bin\Debug\net10.0\ApiCRUD.Interfaces.deps.json
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\bin\Debug\net10.0\ApiCRUD.Interfaces.dll
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\bin\Debug\net10.0\ApiCRUD.Interfaces.pdb
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\bin\Debug\net10.0\ApiCRUD.Models.dll
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\bin\Debug\net10.0\ApiCRUD.Models.pdb
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\obj\Debug\net10.0\ApiCRUD.Interfaces.csproj.AssemblyReference.cache
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\obj\Debug\net10.0\ApiCRUD.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\obj\Debug\net10.0\ApiCRUD.Interfaces.AssemblyInfoInputs.cache
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\obj\Debug\net10.0\ApiCRUD.Interfaces.AssemblyInfo.cs
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\obj\Debug\net10.0\ApiCRUD.Interfaces.csproj.CoreCompileInputs.cache
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\obj\Debug\net10.0\ApiCRUD.Interfaces.sourcelink.json
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\obj\Debug\net10.0\ApiCRUD..0176239E.Up2Date
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\obj\Debug\net10.0\ApiCRUD.Interfaces.dll
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\obj\Debug\net10.0\refint\ApiCRUD.Interfaces.dll
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Interfaces\obj\Debug\net10.0\ApiCRUD.Interfaces.pdb

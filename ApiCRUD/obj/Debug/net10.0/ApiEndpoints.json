@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "ApiCRUD.Controllers.UsuarioControllers",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/UsuarioControllers/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ApiCRUD.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

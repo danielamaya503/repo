@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ApiCRUD.Models\ApiCRUD.Models.csproj" />
+  </ItemGroup>
+
 </Project>
