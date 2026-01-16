@@ -3,37 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DDE6AA1-D15A-137D-E6C9-63124D90DEB1}|..\\ApiCRUD.Concretes\\ApiCRUD.Concretes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.concretes\\datos\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCRUD.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud\\controllers\\usuariocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCRUD.csproj|solutionrelative:controllers\\usuariocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DDE6AA1-D15A-137D-E6C9-63124D90DEB1}|..\\ApiCRUD.Concretes\\ApiCRUD.Concretes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.concretes\\servicios\\usuariosservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB1D9DA5-168A-456C-8D2B-74C01F70E613}|..\\ApiCRUD.Concretes\\ApiCRUD.Concretes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.concretes\\servicios\\usuariosservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340E298D-C7E4-4100-B33A-2EC8D1810525}|..\\ApiCRUD.Interfaces\\ApiCRUD.Interfaces.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.interfaces\\servicios\\iusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCRUD.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{829EDEB1-33DB-2A2E-6CF5-D0056DBA26F4}|..\\ApiCRUD.Models\\ApiCRUD.Models.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.models\\models\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCRUD.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCRUD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{829EDEB1-33DB-2A2E-6CF5-D0056DBA26F4}|..\\ApiCRUD.Models\\ApiCRUD.Models.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.models\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB1D9DA5-168A-456C-8D2B-74C01F70E613}|..\\ApiCRUD.Concretes\\ApiCRUD.Concretes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.concretes\\datos\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D6819F6-9659-E778-A9F5-3C6D0F127D52}|..\\ApiCRUD.Interfaces\\ApiCRUD.Interfaces.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.interfaces\\servicios\\idepartamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB1D9DA5-168A-456C-8D2B-74C01F70E613}|..\\ApiCRUD.Concretes\\ApiCRUD.Concretes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.concretes\\servicios\\departamentosservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D6819F6-9659-E778-A9F5-3C6D0F127D52}|..\\ApiCRUD.Interfaces\\ApiCRUD.Interfaces.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.interfaces\\servicios\\iusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{340E298D-C7E4-4100-B33A-2EC8D1810525}|..\\ApiCRUD.Interfaces\\ApiCRUD.Interfaces.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.interfaces\\servicios\\idepartament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCRUD.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud\\controllers\\usuariocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCRUD.csproj|solutionrelative:controllers\\usuariocontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C09A341-32AF-4E19-84F0-7A770448257B}|..\\ApiCRUD.Models\\ApiCRUD.Models.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.models\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{829EDEB1-33DB-2A2E-6CF5-D0056DBA26F4}|..\\ApiCRUD.Models\\ApiCRUD.Models.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.models\\apicrud.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0C09A341-32AF-4E19-84F0-7A770448257B}|..\\ApiCRUD.Models\\ApiCRUD.Models.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.models\\models\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\Models\\CrudUsuariosContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\CrudUsuariosContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCRUD.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud\\apicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCRUD.csproj|solutionrelative:apicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F33A30-EA39-4781-993E-B811EF9C4ED2}|..\\ApiCRUD.ViewModels\\ApiCRUD.ViewModels.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.viewmodels\\apicrud.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F33A30-EA39-4781-993E-B811EF9C4ED2}|..\\ApiCRUD.ViewModels\\ApiCRUD.ViewModels.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.viewmodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C09A341-32AF-4E19-84F0-7A770448257B}|..\\ApiCRUD.Models\\ApiCRUD.Models.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340E298D-C7E4-4100-B33A-2EC8D1810525}|..\\ApiCRUD.Interfaces\\ApiCRUD.Interfaces.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.interfaces\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1D9DA5-168A-456C-8D2B-74C01F70E613}|..\\ApiCRUD.Concretes\\ApiCRUD.Concretes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\gitapi\\repo\\apicrud.concretes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,6 +77,10 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UsuariosServicio.cs",
@@ -61,22 +88,48 @@
               "RelativeDocumentMoniker": "..\\ApiCRUD.Concretes\\Servicios\\UsuariosServicio.cs",
               "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Concretes\\Servicios\\UsuariosServicio.cs",
               "RelativeToolTip": "..\\ApiCRUD.Concretes\\Servicios\\UsuariosServicio.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAIA4wDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T00:38:39.673Z",
+              "WhenOpened": "2026-01-16T01:17:50.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T22:19:55.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Concretes\\Datos\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\ApiCRUD.Concretes\\Datos\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Concretes\\Datos\\AppDbContext.cs",
-              "RelativeToolTip": "..\\ApiCRUD.Concretes\\Datos\\AppDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBoAAAABAAAAAAAAAA==",
+              "Title": "UsuarioControllers.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\Controllers\\UsuarioControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioControllers.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\Controllers\\UsuarioControllers.cs",
+              "RelativeToolTip": "Controllers\\UsuarioControllers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T00:14:11.819Z",
+              "WhenOpened": "2026-01-14T00:37:07.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Interfaces\\Servicios\\IUsuarios.cs",
+              "RelativeDocumentMoniker": "..\\ApiCRUD.Interfaces\\Servicios\\IUsuarios.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Interfaces\\Servicios\\IUsuarios.cs",
+              "RelativeToolTip": "..\\ApiCRUD.Interfaces\\Servicios\\IUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:05:37.918Z",
               "EditorCaption": ""
             },
             {
@@ -87,7 +140,7 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-14T00:30:44.881Z",
               "EditorCaption": ""
@@ -95,89 +148,153 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Models\\Models\\Usuarios.cs",
-              "RelativeDocumentMoniker": "..\\ApiCRUD.Models\\Models\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Models\\Models\\Usuarios.cs",
-              "RelativeToolTip": "..\\ApiCRUD.Models\\Models\\Usuarios.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAhAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Concretes\\Datos\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ApiCRUD.Concretes\\Datos\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Concretes\\Datos\\AppDbContext.cs",
+              "RelativeToolTip": "..\\ApiCRUD.Concretes\\Datos\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T00:51:15.48Z",
+              "WhenOpened": "2026-01-16T01:19:50.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "UsuarioControllers.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\Controllers\\UsuarioControllers.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioControllers.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\Controllers\\UsuarioControllers.cs",
-              "RelativeToolTip": "Controllers\\UsuarioControllers.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Models\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\ApiCRUD.Models\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Models\\Models\\Usuario.cs",
+              "RelativeToolTip": "..\\ApiCRUD.Models\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T00:37:07.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Interfaces\\Servicios\\IUsuarios.cs",
-              "RelativeDocumentMoniker": "..\\ApiCRUD.Interfaces\\Servicios\\IUsuarios.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Interfaces\\Servicios\\IUsuarios.cs",
-              "RelativeToolTip": "..\\ApiCRUD.Interfaces\\Servicios\\IUsuarios.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T00:38:04.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDepartamentos.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Interfaces\\Servicios\\IDepartamentos.cs",
-              "RelativeDocumentMoniker": "..\\ApiCRUD.Interfaces\\Servicios\\IDepartamentos.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Interfaces\\Servicios\\IDepartamentos.cs",
-              "RelativeToolTip": "..\\ApiCRUD.Interfaces\\Servicios\\IDepartamentos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T00:37:45.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T22:19:55.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Departament.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Models\\Models\\Departament.cs",
-              "RelativeDocumentMoniker": "..\\ApiCRUD.Models\\Models\\Departament.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Models\\Models\\Departament.cs",
-              "RelativeToolTip": "..\\ApiCRUD.Models\\Models\\Departament.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T22:45:29.722Z",
+              "WhenOpened": "2026-01-16T01:17:09.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ApiCRUD.Models.csproj",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Models\\ApiCRUD.Models.csproj",
-              "RelativeDocumentMoniker": "..\\ApiCRUD.Models\\ApiCRUD.Models.csproj",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Models\\ApiCRUD.Models.csproj",
-              "RelativeToolTip": "..\\ApiCRUD.Models\\ApiCRUD.Models.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Departament.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Models\\Models\\Departament.cs",
+              "RelativeDocumentMoniker": "..\\ApiCRUD.Models\\Models\\Departament.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Models\\Models\\Departament.cs",
+              "RelativeToolTip": "..\\ApiCRUD.Models\\Models\\Departament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:17:07.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartamentosServicio.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Concretes\\Servicios\\DepartamentosServicio.cs",
+              "RelativeDocumentMoniker": "..\\ApiCRUD.Concretes\\Servicios\\DepartamentosServicio.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Concretes\\Servicios\\DepartamentosServicio.cs",
+              "RelativeToolTip": "..\\ApiCRUD.Concretes\\Servicios\\DepartamentosServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:15:10.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CrudUsuariosContext.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\Models\\CrudUsuariosContext.cs",
+              "RelativeDocumentMoniker": "Models\\CrudUsuariosContext.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\Models\\CrudUsuariosContext.cs",
+              "RelativeToolTip": "Models\\CrudUsuariosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:09:43.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDepartament.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Interfaces\\Servicios\\IDepartament.cs",
+              "RelativeDocumentMoniker": "..\\ApiCRUD.Interfaces\\Servicios\\IDepartament.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Interfaces\\Servicios\\IDepartament.cs",
+              "RelativeToolTip": "..\\ApiCRUD.Interfaces\\Servicios\\IDepartament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T01:06:05.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ApiCRUD.Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Models\\Class1.cs",
+              "RelativeToolTip": "..\\ApiCRUD.Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:47:59.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Interfaces\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ApiCRUD.Interfaces\\Class1.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Interfaces\\Class1.cs",
+              "RelativeToolTip": "..\\ApiCRUD.Interfaces\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:47:45.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Concretes\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ApiCRUD.Concretes\\Class1.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.Concretes\\Class1.cs",
+              "RelativeToolTip": "..\\ApiCRUD.Concretes\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:47:27.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.ViewModels\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ApiCRUD.ViewModels\\Class1.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.ViewModels\\Class1.cs",
+              "RelativeToolTip": "..\\ApiCRUD.ViewModels\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:48:21.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiCRUD.ViewModels.csproj",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.ViewModels\\ApiCRUD.ViewModels.csproj",
+              "RelativeDocumentMoniker": "..\\ApiCRUD.ViewModels\\ApiCRUD.ViewModels.csproj",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD.ViewModels\\ApiCRUD.ViewModels.csproj",
+              "RelativeToolTip": "..\\ApiCRUD.ViewModels\\ApiCRUD.ViewModels.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-12T22:42:05.641Z",
+              "WhenOpened": "2026-01-16T00:54:11.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiCRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\ApiCRUD.csproj",
+              "RelativeDocumentMoniker": "ApiCRUD.csproj",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\gitApi\\repo\\ApiCRUD\\ApiCRUD.csproj",
+              "RelativeToolTip": "ApiCRUD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T01:08:13.597Z",
               "EditorCaption": ""
             }
           ]

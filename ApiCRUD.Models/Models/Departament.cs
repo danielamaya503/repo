@@ -1,16 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
-namespace ApiCRUD.Models.Models
+namespace ApiCRUD.Models;
+
+public partial class Departament
 {
-    public class Departament
-    {
-        public int idDepartamento { get; set; }
-        public string Nombre { get; set; } = string.Empty;
-        public string descripcion { get; set; } = string.Empty;
+    public int IdDepartamento { get; set; }
 
-        // Navegación al lado "muchos" (un Departament tiene muchos Usuarios)
-        public virtual ICollection<Usuarios> usuarios { get; set; } = new List<Usuarios>();
-    }
+    public string Nombre { get; set; } = null!;
+
+    public string? Descripcion { get; set; }
+
+    public virtual ICollection<Usuario> Usuarios { get; set; } = new List<Usuario>();
 }

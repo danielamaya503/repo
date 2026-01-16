@@ -1,10 +1,10 @@
-﻿using System;
+﻿using ApiCRUD.Concretes.Datos;
+using ApiCRUD.Interfaces.Servicios;
+using ApiCRUD.Models;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Text;
-using Microsoft.EntityFrameworkCore;
-using ApiCRUD.Interfaces.Servicios;
-using ApiCRUD.Models.Models;
-using ApiCRUD.Concretes.Datos;
 
 namespace ApiCRUD.Concretes.Servicios
 {
@@ -23,13 +23,13 @@ namespace ApiCRUD.Concretes.Servicios
             //_dbSet = dbSet;
         }
 
-        public async Task<Usuarios> CreateUser(Usuarios user)
+        public async Task<Usuario> CreateUser(Usuario user)
         {
             //_context es el contexto de la base de datos
             //contiene la configuracion y conexion a la base de datos
 
             //es para agregar un nuevo usuario a la base de datos
-            await _context.Usuarios.AddAsync(user);
+            _context.Usuarios.Add(user);
             //es para guardar los cambios en la base de datos
             await _context.SaveChangesAsync();
             //retorna el usuario creado
@@ -41,21 +41,22 @@ namespace ApiCRUD.Concretes.Servicios
             throw new NotImplementedException();
         }
 
-        public async Task<IEnumerable<Usuarios>> GetAllUsuarios()
+        public async Task<IEnumerable<Usuario>> GetAllUsuarios()
         {
             //_context contiene la configuracion y conexion a la base de datos
             //Users contiene la tabla Usuarios en la base de datos
             // AsNoTracking es para que no haga seguimiento de los cambios en los objetos
             // ToListAsync es para convertir el resultado en una lista de manera asincrona
-            return await _context.Usuarios.AsNoTracking().ToListAsync();
+            var usuarios = await _context.Usuarios.ToListAsync();
+            return usuarios;
         }
 
-        public Task<Usuarios> GetUserById(int id)
+        public Task<Usuario> GetUserById(int id)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Usuarios> UpdateUser(Usuarios user)
+        public Task<Usuario> UpdateUser(Usuario user)
         {
             throw new NotImplementedException();
         }

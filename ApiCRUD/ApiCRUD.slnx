@@ -1,7 +1,7 @@
 <Solution>
-  <Project Path="../ApiCRUD.Concretes/ApiCRUD.Concretes.csproj" />
-  <Project Path="../ApiCRUD.Interfaces/ApiCRUD.Interfaces.csproj" />
-  <Project Path="../ApiCRUD.Models/ApiCRUD.Models.csproj" />
-  <Project Path="../ApiCRUD.ModelsDTO/ApiCRUD.ModelsDTO.csproj" />
+  <Project Path="../ApiCRUD.Concretes/ApiCRUD.Concretes.csproj" Id="fb1d9da5-168a-456c-8d2b-74c01f70e613" />
+  <Project Path="../ApiCRUD.Interfaces/ApiCRUD.Interfaces.csproj" Id="340e298d-c7e4-4100-b33a-2ec8d1810525" />
+  <Project Path="../ApiCRUD.Models/ApiCRUD.Models.csproj" Id="0c09a341-32af-4e19-84f0-7a770448257b" />
+  <Project Path="../ApiCRUD.ViewModels/ApiCRUD.ViewModels.csproj" Id="79f33a30-ea39-4781-993e-b811ef9c4ed2" />
   <Project Path="ApiCRUD.csproj" />
 </Solution>

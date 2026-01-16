@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ApiCRUD.Models\ApiCRUD.Models.csproj" />
+    <ProjectReference Include="..\ApiCRUD.ViewModels\ApiCRUD.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>

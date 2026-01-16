@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using ApiCRUD.Concretes.Datos;
 using ApiCRUD.Concretes.Servicios;
 using ApiCRUD.Interfaces.Servicios;
-
+using Newtonsoft.Json;
 //usar proyecto de ApiCRUD.Models que es biblioteca de clases
 
 
@@ -23,7 +23,7 @@ builder.Services.AddControllers();
 //configurar el contexto de la base de datos
 builder.Services.AddDbContext<AppDbContext>(opntions =>
 {
-    var connection = builder.Configuration.GetConnectionString("SqlServerConnection");
+    var connection = builder.Configuration.GetConnectionString("AppDbContext");
     opntions.UseSqlServer(connection);
 });
 
@@ -53,8 +53,8 @@ builder.Services.AddCors();
 //--------------------INYECCIONES DE DEPENDENCIAS PERSONALIZADAS AQUI--------------------//
 
 builder.Services.AddScoped<IUsuarios, UsuariosServicio>();
-//builder.Services.AddScoped<IDepartamentos, DepartamentosServicio>();
 
+//builder.Services.AddScoped<AppDbContext>();
 
 var app = builder.Build();
 

@@ -1,13 +1,12 @@
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.Concretes.deps.json
-C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.Concretes.runtimeconfig.json
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.Concretes.dll
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.Concretes.pdb
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.Interfaces.dll
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.Models.dll
-C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.ModelsDTO.dll
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.ViewModels.dll
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.Interfaces.pdb
-C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.ModelsDTO.pdb
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.Models.pdb
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.ViewModels.pdb
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.csproj.AssemblyReference.cache
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.AssemblyInfoInputs.cache
@@ -18,5 +17,6 @@ C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.dll
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\refint\ApiCRUD.Concretes.dll
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.pdb
-C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.genruntimeconfig.cache
 C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ref\ApiCRUD.Concretes.dll
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\bin\Debug\net10.0\ApiCRUD.Concretes.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\gitApi\repo\ApiCRUD.Concretes\obj\Debug\net10.0\ApiCRUD.Concretes.genruntimeconfig.cache
