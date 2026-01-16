@@ -5,6 +5,44 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/DepartamentosControllers/GetAllDepartaments": {
+      "get": {
+        "tags": [
+          "DepartamentosControllers"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Departament"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Departament"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Departament"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/UsuarioControllers/GetAllUsers": {
       "get": {
         "tags": [
@@ -174,6 +212,9 @@
     }
   },
   "tags": [
+    {
+      "name": "DepartamentosControllers"
+    },
     {
       "name": "UsuarioControllers"
     },

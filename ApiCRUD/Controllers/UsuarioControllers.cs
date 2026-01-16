@@ -17,6 +17,10 @@ namespace ApiCRUD.Controllers
             _usuarioService = usuarioService;
         }
 
+        /// <summary>
+        /// Obtiene todos los usuarios
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         [Route("GetAllUsers")]
         // GET: api/UsuarioControllers/GetAllUsers
@@ -24,15 +28,26 @@ namespace ApiCRUD.Controllers
         //para devolver diferentes tipos de respuestas HTTP.
         public async Task<ActionResult<IEnumerable<Usuario>>> GetAllUsers()
         {
-            var users = await _usuarioService.GetAllUsuarios();
+            try {
+                //Obtiene todos los usuarios llamando al servicio   
+                var users = await _usuarioService.GetAllUsuarios();
 
-            //si es nulodevuelve no encontrado
-            if (users == null || !users.Any())
-            {
-                return NotFound("No se encontraron usuarios.");
+                //si es nulodevuelve no encontrado
+                if (users == null || !users.Any())
+                {
+                    //si no hay usuarios devuelve no encontrado
+                    return NotFound("No se encontraron usuarios.");
+                }
+                //devuelve la lista de usuarios
+                return Ok(users);
+
             }
-
-            return Ok(users);
+            catch (Exception ex) 
+            {
+                //si hay un error devuelve error interno del servidor
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error interno del servidor: " + ex.Message);
+            }
+            
         }
     }
 }

@@ -53,12 +53,35 @@ builder.Services.AddCors();
 //--------------------INYECCIONES DE DEPENDENCIAS PERSONALIZADAS AQUI--------------------//
 
 builder.Services.AddScoped<IUsuarios, UsuariosServicio>();
+builder.Services.AddScoped<IDepartament, DepartamentosServicio>();
 
 //builder.Services.AddScoped<AppDbContext>();
 
 var app = builder.Build();
 
 //---------------------MIDLEWARES PERSONALIZADOS AQUI---------------------//
+
+////redirecciona a swagger
+//app.MapGet("/", (HttpContext context) =>
+//{
+//    //redirecciona a swagger
+//    //permanent es para indicar si la redireccion es permanente o temporal
+//    context.Response.Redirect("/swagger/index.html", permanent:false);
+//});
+
+//---------------------redirecciona a swagger----------------------//
+//Use es para agregar un middleware al pipeline de la aplicacion
+app.Use(async (context, next) => {
+
+    //si la ruta es la raiz
+    if (context.Request.Path == "/") {
+        //redirecciona a swagger
+        context.Response.Redirect("/swagger/index.html", permanent: false);
+        return;
+    }
+    //si no es la raiz continua con el siguiente middleware
+    await next();
+});
 
 
 // Configure the HTTP request pipeline.
